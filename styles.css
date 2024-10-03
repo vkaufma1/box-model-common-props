@@ -347,7 +347,7 @@ footer{
 /* ADD SELECTOR AND STYLES HERE */
 
 /* For the first link in this section: */
-#section2 a:first-of-type{
+#section2 a:first-of-type {
     background-color: var(--lt-blue);
     color: var(--dk-gray);
     padding: 16px;
@@ -356,7 +356,9 @@ footer{
     border-radius: 0 24px 24px 0;
 }
 
-/* For the paragraph with placeholder text */
+
+
+*/For the paragraph with placeholder text */
 #section2 p:nth-of-type(2){
     margin: 1rem 0;
 }
